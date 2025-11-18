@@ -20,8 +20,7 @@ Fornecer insights visuais sobre:
 - Dispositivos ou canais de acesso
 - Taxas de conversão ou cliques por etapa
 
-🌐 Acesse o dashboard online
-👉(https://public.tableau.com/app/profile/aline.barros/viz/DashboardTableau_17634918643600/Painel1?publish=yes&showOnboarding=true)
+🌐 Acesse o dashboard online aqui 👉 (https://public.tableau.com/app/profile/aline.barros/viz/DashboardTableau_17634918643600/Painel1?publish=yes&showOnboarding=true)
 
 📁 Arquivos incluídos
  `dashboard_comportamento_usuario.twbx`: Arquivo do Tableau com o dashboard completo
